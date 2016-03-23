@@ -120,4 +120,4 @@ Thumbs.db
 # -----
 # project original
 .idea/
-config/
+config/*
